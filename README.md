@@ -4,5 +4,5 @@ My second line to test _underscore_ and **bold**
 Or to make a list:  
 - first item  
 - second item  
-- etc
+- third item
  
