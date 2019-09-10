@@ -7,4 +7,6 @@ Or to make a list:
 - third item  
 - I am testing again, *test* **test** _test_   
 # README by SH
-Sara's first practice (by herself) on using bash and git hub repository
+Sara's first practice (by herself) on using bash and git hub repository  
+## Yaaaaaaaaaayyyyyyyyyyyyyyy 
+I did it! :)
