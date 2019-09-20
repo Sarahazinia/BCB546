@@ -8,4 +8,4 @@ Or to make a list:
 - I am testing again, *test* **test** _test_   
 # README by SH
 Sara's first practice (by herself) on using bash and git hub repository  
-Yaaaaaaaaaayyyyyyyyyyyyyyy I made it! :)
+Yaaaaaaaaaayyyyyyyyyyyyyyy I made it! :-)
